@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		203835C721EC2F4800D8F86F /* SlideInTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203835C621EC2F4800D8F86F /* SlideInTransition.swift */; };
 		20C8FBDE21EAC6D200850BB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8FBDD21EAC6D200850BB7 /* AppDelegate.swift */; };
 		20C8FBE021EAC6D200850BB7 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C8FBDF21EAC6D200850BB7 /* HomeViewController.swift */; };
 		20C8FBE321EAC6D200850BB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20C8FBE121EAC6D200850BB7 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		203835C621EC2F4800D8F86F /* SlideInTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideInTransition.swift; sourceTree = "<group>"; };
 		20C8FBDA21EAC6D200850BB7 /* SlideInTransition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideInTransition.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20C8FBDD21EAC6D200850BB7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20C8FBDF21EAC6D200850BB7 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				20C8FBE621EAC6D300850BB7 /* LaunchScreen.storyboard */,
 				20C8FBE921EAC6D300850BB7 /* Info.plist */,
 				20C8FBEF21EAC83100850BB7 /* MenuViewController.swift */,
+				203835C621EC2F4800D8F86F /* SlideInTransition.swift */,
 			);
 			path = SlideInTransition;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20C8FBE021EAC6D200850BB7 /* HomeViewController.swift in Sources */,
+				203835C721EC2F4800D8F86F /* SlideInTransition.swift in Sources */,
 				20C8FBF021EAC83100850BB7 /* MenuViewController.swift in Sources */,
 				20C8FBDE21EAC6D200850BB7 /* AppDelegate.swift in Sources */,
 			);
